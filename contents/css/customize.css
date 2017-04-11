@@ -61,7 +61,7 @@ body {
 }
 
 .social-icons {
-    float: right;
+    float: left;
     padding: 0!important;
     list-style-type: none!important;
     margin: 1px 22px 0 auto;
